@@ -32,7 +32,7 @@ This project is a basic simulation of GitHub functionalities implemented in a co
 
 ## Contributors
 - [Usama Jamil](https://github.com/Osamakhan95/GitHub-Simulation-Using-C-/edit/main/README.md) - Creator and main contributor
-- [Rana Arham](https://github.com/Osamakhan95/GitHub-Simulation-Using-C-/edit/main/README.md) - Contributor
+- [Rana Arham](https://github.com/rana-arham-2122)- Contributor
 - [Owais Qarni](https://github.com/Osamakhan95/GitHub-Simulation-Using-C-/edit/main/README.md) - Contributor
 
 ## Acknowledgments
