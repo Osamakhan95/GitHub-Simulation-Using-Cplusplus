@@ -10,7 +10,7 @@ This project is a basic simulation of GitHub functionalities implemented in a co
 ## How to Use
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/github-simulation.git
+   git clone https://github.com/Osamakhan95/GitHub-Simulation-Using-Cplusplus
    ```
 
 2. **Navigate to the Project Directory:**
